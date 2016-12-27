@@ -1,5 +1,3 @@
-
-
 # Load ggplot2 library
 require(ggplot2)
 
